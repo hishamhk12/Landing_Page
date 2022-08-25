@@ -1,7 +1,5 @@
 # HTML-CSS_Landing_Page
-## Live Preview: https://kareem2002shimes.github.io/Landing_Page/
 
-Coded by - [kareem shimes]
 
 ![](/image.PNG)
 
